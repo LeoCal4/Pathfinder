@@ -1,0 +1,10 @@
+####@ PATHFINDING ALGORITHM VISUALIZATION TOOL @####
+    List of pathfinding algorithms to implement:
+    -Breadth First Search
+    -Lowest/Uniform Cost Search
+    -Depth First Search
+    -Bounded Depth First Search
+    -Iterative Deepening
+    -Bidirectional Search
+    -Greedy Best Search
+    -A* Search
